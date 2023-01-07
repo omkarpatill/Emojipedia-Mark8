@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Kalam&display=swap");
+.App {
+  font-family: "Kalam", cursive;
+  text-align: center;
+}
+input {
+  padding: 1rem;
+  border: solid 2px black;
+  width: 50%;
+}
+#output {
+  padding: 2rem;
+  font-weight: bolder;
+  font-size: 20px;
+}
+#about {
+  padding-top: 5rem;
+}
